@@ -20,6 +20,10 @@
         <junit.version>5.9.2</junit.version>
     </properties>
 
+    <modules>
+        <module>handling-servlet-lifecycle-events</module>
+    </modules>
+
     <dependencyManagement>
         <dependencies>
             <dependency>
